@@ -1,3 +1,3 @@
 # MDIA2526Lab
-My project 
+# My project 
 Welcome to this project
